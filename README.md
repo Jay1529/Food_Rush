@@ -253,7 +253,7 @@ Possible future improvements include:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Jay Wadkar **
 
 BSc IT Student\
 Interested in SQL, Data Analytics, and Database Management.
